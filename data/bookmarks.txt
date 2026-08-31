@@ -1,0 +1,4 @@
+# One arXiv ID or URL per line.
+# Examples:
+# 2608.12345
+# https://arxiv.org/abs/2608.12345
